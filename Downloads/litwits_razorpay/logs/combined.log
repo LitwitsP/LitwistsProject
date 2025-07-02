@@ -1,0 +1,183 @@
+{"level":"info","message":"Received order creation request","payload":{"amount":500,"currency":"INR"},"timestamp":"2025-06-22T12:32:21.630Z"}
+{"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-22T12:32:21.986Z"}
+{"level":"info","message":"Fetching transaction list","timestamp":"2025-06-22T12:36:36.654Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":500,"currency":"INR"},"timestamp":"2025-06-24T06:16:44.870Z"}
+{"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T06:16:45.481Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":500,"currency":"INR"},"timestamp":"2025-06-24T06:19:01.925Z"}
+{"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T06:19:02.282Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":5000,"currency":"INR"},"timestamp":"2025-06-24T06:22:41.107Z"}
+{"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T06:22:41.377Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":5000,"currency":"INR"},"timestamp":"2025-06-24T06:26:26.664Z"}
+{"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T06:26:26.995Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":5000,"currency":"INR"},"timestamp":"2025-06-24T06:27:17.301Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T06:27:17.582Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":5000,"currency":"INR"},"timestamp":"2025-06-24T06:30:44.024Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T06:30:44.419Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":5000,"currency":"INR"},"timestamp":"2025-06-24T06:46:34.691Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T06:46:34.988Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":5000,"currency":"INR"},"timestamp":"2025-06-24T07:04:26.982Z"}
+{"amount":5000,"currency":"INR","level":"info","message":"Razorpay order created successfully","orderId":"order_QkwbJeF3i4K0q2","timestamp":"2025-06-24T07:04:28.412Z"}
+{"level":"info","message":"Fetching transaction list","timestamp":"2025-06-24T07:05:28.403Z"}
+{"body":{"amount":500},"level":"info","message":"Received payment capture request","params":{"id":"pay_xyz"},"timestamp":"2025-06-24T07:06:19.956Z"}
+{"level":"error","message":"Error capturing payment","timestamp":"2025-06-24T07:06:20.174Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":501,"currency":"INR"},"timestamp":"2025-06-24T07:32:00.378Z"}
+{"amount":501,"currency":"INR","level":"info","message":"Razorpay order created successfully","orderId":"order_Qkx4QL5taEIOPZ","timestamp":"2025-06-24T07:32:01.839Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":900,"currency":"INR"},"timestamp":"2025-06-24T07:32:41.862Z"}
+{"amount":900,"currency":"INR","level":"info","message":"Razorpay order created successfully","orderId":"order_Qkx58YWFsioefa","timestamp":"2025-06-24T07:32:42.220Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":300,"currency":"INR"},"timestamp":"2025-06-24T07:51:03.621Z"}
+{"amount":300,"currency":"INR","level":"info","message":"Razorpay order created successfully","orderId":"order_QkxOYjIhM8B1d0","timestamp":"2025-06-24T07:51:05.453Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":300,"currency":"INR"},"timestamp":"2025-06-24T08:07:56.147Z"}
+{"amount":300,"currency":"INR","level":"info","message":"Razorpay order created successfully","orderId":"order_QkxgNwHaBJkzz7","timestamp":"2025-06-24T08:07:58.104Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":300,"currency":"INR"},"timestamp":"2025-06-24T08:11:19.842Z"}
+{"amount":300,"currency":"INR","level":"info","message":"Razorpay order created successfully","orderId":"order_QkxjxK9qS1bhDk","timestamp":"2025-06-24T08:11:20.766Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":300,"currency":"INR"},"timestamp":"2025-06-24T08:12:47.856Z"}
+{"error":{},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T08:12:48.243Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":300,"currency":"INR"},"timestamp":"2025-06-24T08:14:06.007Z"}
+{"error":{},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T08:14:06.408Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":321,"currency":"INR"},"timestamp":"2025-06-24T08:14:54.866Z"}
+{"error":{},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T08:14:55.271Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":321,"currency":"INR"},"timestamp":"2025-06-24T08:15:34.469Z"}
+{"error":{},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T08:15:34.824Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":321,"currency":"INR"},"timestamp":"2025-06-24T08:16:42.149Z"}
+{"error":{},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T08:16:42.630Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":41,"currency":"INR"},"timestamp":"2025-06-24T08:17:48.039Z"}
+{"error":{},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T08:17:48.330Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":11,"currency":"INR"},"timestamp":"2025-06-24T08:20:25.125Z"}
+{"error":{},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T08:20:25.386Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":11,"currency":"INR"},"timestamp":"2025-06-24T08:21:39.150Z"}
+{"error":{},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T08:21:39.505Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":11,"currency":"INR"},"timestamp":"2025-06-24T09:09:27.803Z"}
+{"amount":11,"currency":"INR","level":"info","message":"Razorpay order created successfully","orderId":"order_QkyjN5WFs5oO6i","timestamp":"2025-06-24T09:09:29.137Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":21,"currency":"INR"},"timestamp":"2025-06-24T09:12:25.668Z"}
+{"amount":21,"currency":"INR","level":"info","message":"Razorpay order created successfully","orderId":"order_QkymUJXBIGMc6g","timestamp":"2025-06-24T09:12:26.023Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":21,"currency":"INR"},"timestamp":"2025-06-24T09:21:57.238Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"The amount must be a valid integer.","metadata":{},"reason":"input_validation_failed","source":"business","step":"payment_initiation"},"statusCode":400},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T09:21:57.589Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":21,"currency":"INR"},"timestamp":"2025-06-24T09:22:01.127Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"The amount must be a valid integer.","metadata":{},"reason":"input_validation_failed","source":"business","step":"payment_initiation"},"statusCode":400},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T09:22:01.176Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":21,"currency":"INR"},"timestamp":"2025-06-24T09:24:11.257Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"The amount must be a valid integer.","metadata":{},"reason":"input_validation_failed","source":"business","step":"payment_initiation"},"statusCode":400},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T09:24:16.536Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":21,"currency":"INR"},"timestamp":"2025-06-24T09:24:54.243Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"The amount must be a valid integer.","metadata":{},"reason":"input_validation_failed","source":"business","step":"payment_initiation"},"statusCode":400},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T09:24:54.629Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":21,"currency":"INR"},"timestamp":"2025-06-24T09:24:56.781Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"The amount must be a valid integer.","metadata":{},"reason":"input_validation_failed","source":"business","step":"payment_initiation"},"statusCode":400},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T09:24:56.881Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":21,"currency":"INR"},"timestamp":"2025-06-24T09:25:39.009Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Order amount less than minimum amount allowed","metadata":{},"reason":"NA","source":"order","step":"NA"},"statusCode":400},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T09:25:39.382Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":21,"currency":"INR"},"timestamp":"2025-06-24T09:26:10.005Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Order amount less than minimum amount allowed","metadata":{},"reason":"NA","source":"order","step":"NA"},"statusCode":400},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T09:26:11.327Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":21,"currency":"INR"},"timestamp":"2025-06-24T09:27:38.197Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Order amount less than minimum amount allowed","metadata":{},"reason":"NA","source":"order","step":"NA"},"statusCode":400},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T09:27:38.470Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":21,"currency":"INR"},"timestamp":"2025-06-24T09:28:57.172Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Order amount less than minimum amount allowed","metadata":{},"reason":"NA","source":"order","step":"NA"},"statusCode":400},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T09:28:57.729Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":21,"currency":"INR"},"timestamp":"2025-06-24T09:30:43.165Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Order amount less than minimum amount allowed","metadata":{},"reason":"NA","source":"order","step":"NA"},"statusCode":400},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-24T09:30:43.509Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":21,"currency":"INR"},"timestamp":"2025-06-24T09:31:20.907Z"}
+{"amount":21,"currency":"INR","level":"info","message":"Razorpay order created successfully","orderId":"order_Qkz6Yw7V604AOm","timestamp":"2025-06-24T09:31:26.254Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":21,"currency":"INR"},"timestamp":"2025-06-24T09:36:42.484Z"}
+{"amount":21,"currency":"INR","level":"info","message":"Razorpay order created successfully","orderId":"order_QkzCE00rKgcNuY","timestamp":"2025-06-24T09:36:47.885Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":21,"currency":"INR"},"timestamp":"2025-06-24T09:41:00.570Z"}
+{"amount":21,"currency":"INR","level":"info","message":"Razorpay order created successfully","orderId":"order_QkzGgLgSQvdUzY","timestamp":"2025-06-24T09:41:01.091Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":21,"currency":"INR"},"timestamp":"2025-06-24T09:43:16.108Z"}
+{"amount":21,"currency":"INR","level":"info","message":"Razorpay order created successfully","orderId":"order_QkzJ5EubwDBNED","timestamp":"2025-06-24T09:43:17.665Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":1,"currency":"INR"},"timestamp":"2025-06-24T09:47:05.686Z"}
+{"amount":1,"currency":"INR","level":"info","message":"Razorpay order created successfully","orderId":"order_QkzN6i9BqxFo7x","timestamp":"2025-06-24T09:47:06.198Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":1,"currency":"INR"},"timestamp":"2025-06-26T06:06:31.784Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-26T06:06:32.082Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":1,"currency":"INR"},"timestamp":"2025-06-26T06:07:52.775Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-26T06:07:53.183Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":1,"currency":"INR"},"timestamp":"2025-06-26T06:08:59.968Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-26T06:09:00.119Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":1,"currency":"INR"},"timestamp":"2025-06-26T06:09:33.982Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-26T06:09:34.453Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":1,"currency":"INR"},"timestamp":"2025-06-26T06:24:08.964Z"}
+{"error":{"error":{"code":"SERVER_ERROR","description":"%s","metadata":{},"reason":"NA","source":"NA","step":"NA"},"statusCode":500},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-26T06:24:10.239Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":1,"currency":"INR"},"timestamp":"2025-06-26T06:25:33.095Z"}
+{"error":{"error":{"code":"SERVER_ERROR","description":"%s","metadata":{},"reason":"NA","source":"NA","step":"NA"},"statusCode":500},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-26T06:25:33.591Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":100,"currency":"INR"},"timestamp":"2025-06-26T06:27:24.095Z"}
+{"error":{"error":{"code":"SERVER_ERROR","description":"%s","metadata":{},"reason":"NA","source":"NA","step":"NA"},"statusCode":500},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-26T06:27:24.560Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":100,"currency":"INR"},"timestamp":"2025-06-26T06:37:46.404Z"}
+{"amount_returned_paise":10000,"amount_rupees":100,"level":"info","message":"Razorpay order created ---successfully","orderId":"order_QljDMDff9eQRVQ","timestamp":"2025-06-26T06:37:46.732Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":11,"currency":"INR"},"timestamp":"2025-06-26T06:41:55.696Z"}
+{"amount_returned_paise":1100,"amount_rupees":11,"level":"info","message":"Razorpay order created ---successfully","orderId":"order_QljHlmWXPyO9YR","timestamp":"2025-06-26T06:41:57.454Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":11,"currency":"INR"},"timestamp":"2025-06-26T06:51:55.418Z"}
+{"amount_returned_paise":1100,"amount_rupees":11,"level":"info","message":"Razorpay order created ---successfully","orderId":"order_QljSJ7YpdKvujo","timestamp":"2025-06-26T06:51:55.861Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":31,"currency":"INR"},"timestamp":"2025-06-26T06:53:56.418Z"}
+{"amount_returned_paise":3100,"amount_rupees":31,"level":"info","message":"Razorpay order created ---successfully","orderId":"order_QljUR2KlJOkP8c","timestamp":"2025-06-26T06:53:56.724Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":9,"currency":"INR"},"timestamp":"2025-06-26T06:55:48.026Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-26T06:55:48.451Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":12,"currency":"INR"},"timestamp":"2025-06-26T06:55:57.391Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-26T06:55:57.662Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":12,"currency":"INR"},"timestamp":"2025-06-26T06:56:48.875Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-26T06:56:54.191Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":101,"currency":"INR"},"timestamp":"2025-06-26T06:57:08.502Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-26T06:57:08.867Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":101,"currency":"INR"},"timestamp":"2025-06-26T07:00:58.276Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-26T07:00:58.721Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":101,"currency":"INR"},"timestamp":"2025-06-26T07:01:20.368Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-26T07:01:20.530Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":101,"currency":"INR"},"timestamp":"2025-06-26T07:01:39.637Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-26T07:01:40.089Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":101,"currency":"INR"},"timestamp":"2025-06-26T07:47:35.444Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-06-26T07:47:35.794Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":27,"currency":"INR"},"timestamp":"2025-06-27T08:27:10.949Z"}
+{"amount_returned_paise":2700,"amount_rupees":27,"level":"info","message":"Razorpay order created ---successfully","orderId":"order_Qm9c4Y9PYC9cPc","timestamp":"2025-06-27T08:27:12.697Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":1,"currency":"INR"},"timestamp":"2025-07-01T06:16:08.354Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-01T06:16:08.742Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":1,"currency":"INR"},"timestamp":"2025-07-01T06:17:33.315Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-01T06:17:33.449Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":26,"currency":"INR"},"timestamp":"2025-07-02T06:26:36.519Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T06:26:37.890Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":26,"currency":"INR"},"timestamp":"2025-07-02T06:30:50.883Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T06:30:51.227Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":26,"currency":"INR"},"timestamp":"2025-07-02T06:31:47.477Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T06:31:47.752Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":26,"currency":"INR"},"timestamp":"2025-07-02T06:32:28.362Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T06:32:28.713Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":26,"currency":"INR"},"timestamp":"2025-07-02T06:33:52.061Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T06:33:52.482Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":26,"currency":"INR"},"timestamp":"2025-07-02T06:35:24.794Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T06:35:25.283Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":26,"currency":"INR"},"timestamp":"2025-07-02T06:58:26.337Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T06:58:28.938Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":26,"currency":"INR"},"timestamp":"2025-07-02T06:59:10.177Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T06:59:11.619Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":26,"currency":"INR"},"timestamp":"2025-07-02T07:00:20.164Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T07:00:21.721Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":26,"currency":"INR"},"timestamp":"2025-07-02T07:01:08.146Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T07:01:09.483Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":26,"currency":"INR"},"timestamp":"2025-07-02T07:03:15.088Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T07:03:16.792Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":26,"currency":"INR"},"timestamp":"2025-07-02T07:04:09.303Z"}
+{"error":{"error":{"code":"BAD_REQUEST_ERROR","description":"Authentication failed"},"statusCode":401},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T07:04:11.180Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":26,"currency":"INR"},"timestamp":"2025-07-02T07:06:24.151Z"}
+{"error":{},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T07:06:25.686Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":26,"currency":"INR"},"timestamp":"2025-07-02T07:13:46.193Z"}
+{"error":{},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T07:13:48.253Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":26,"currency":"INR"},"timestamp":"2025-07-02T07:20:40.901Z"}
+{"error":{},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T07:20:44.178Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":26,"currency":"INR"},"timestamp":"2025-07-02T07:56:16.947Z"}
+{"amount_rupees":26,"level":"info","message":"Razorpay order created ---successfully","orderId":"order_Qo7l2Ajuvybvuf","timestamp":"2025-07-02T07:56:18.693Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":77,"currency":"INR"},"timestamp":"2025-07-02T08:01:37.488Z"}
+{"amount_rupees":77,"level":"info","message":"Razorpay order created ---successfully","orderId":"order_Qo7qesi1jtjqYH","timestamp":"2025-07-02T08:01:38.270Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":33,"currency":"INR"},"timestamp":"2025-07-02T08:25:51.905Z"}
+{"amount_rupees":33,"level":"info","message":"Razorpay order created ---successfully","orderId":"order_Qo8GHuOJFxIqUH","timestamp":"2025-07-02T08:25:54.124Z"}
+{"error":{},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T08:25:54.125Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":22,"currency":"INR"},"timestamp":"2025-07-02T08:28:16.086Z"}
+{"amount_rupees":22,"level":"info","message":"Razorpay order created ---successfully","orderId":"order_Qo8Inu1xczvR02","timestamp":"2025-07-02T08:28:16.736Z"}
+{"error":{},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T08:28:16.736Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":2,"currency":"INR"},"timestamp":"2025-07-02T09:11:50.108Z"}
+{"error":{},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T09:11:52.234Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":2,"currency":"INR"},"timestamp":"2025-07-02T09:15:46.802Z"}
+{"error":{},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T09:15:47.450Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":2,"currency":"INR"},"timestamp":"2025-07-02T09:28:44.924Z"}
+{"error":{},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T09:28:46.210Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":3,"currency":"INR"},"timestamp":"2025-07-02T09:31:53.262Z"}
+{"error":{},"level":"error","message":"Error creating Razorpay order","timestamp":"2025-07-02T09:31:53.800Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":3,"currency":"INR"},"timestamp":"2025-07-02T09:41:17.406Z"}
+{"level":"info","message":"Order saved to MongoDB","orderId":"order_Qo9XwH6w0Ay2Pq","timestamp":"2025-07-02T09:41:18.137Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":1,"currency":"INR"},"timestamp":"2025-07-02T10:03:54.528Z"}
+{"level":"info","message":"Order saved to MongoDB","orderId":"order_Qo9vqFJBTzEkmb","timestamp":"2025-07-02T10:03:55.625Z"}
+{"level":"info","message":"Received order creation request","payload":{"amount":1,"currency":"INR"},"timestamp":"2025-07-02T10:07:56.819Z"}
+{"amount_rupees":1,"level":"info","message":"Razorpay order created ---successfully","orderId":"order_QoA066kJbw7dw8","timestamp":"2025-07-02T10:07:57.435Z"}
+{"level":"info","message":"Order saved to MongoDB","orderId":"order_QoA066kJbw7dw8","timestamp":"2025-07-02T10:07:57.537Z"}
+{"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"906","content-type":"application/json","host":"localhost:5000","postman-token":"7864614d-dd8b-4124-a2a5-402cb65c6830","user-agent":"PostmanRuntime/7.44.0","x-razorpay-signature":"<calculated_signature>"},"level":"warn","message":"Invalid webhook signature","timestamp":"2025-07-02T11:35:32.019Z"}
+{"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0","content-type":"application/json","host":"localhost:5000","postman-token":"5356776e-8b66-4c7e-96ee-62ae7cdfaf9f","user-agent":"PostmanRuntime/7.44.0","x-razorpay-signature":"<calculated_signature>"},"level":"warn","message":"Invalid webhook signature","timestamp":"2025-07-02T11:38:21.720Z"}
